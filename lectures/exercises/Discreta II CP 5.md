@@ -4,16 +4,16 @@
 ### Maquinas de Turing
 
 1 - Dada la siguiente maquina de turing, donde v pertenece al alfabeto de entrada:
-![turing_1.svg](./images/turing_1.svg)
+![turing_1.png](./images/turing_1.svg)
 
 a) Ejecutela sobre la secuencia 'abba'
 b) Determine que lenguaje reconoce dicha maquina
 
 2 - Dada las siguientes maquinas de turing determine que lenguaje reconocen
 a)
-![turing_2.svg](./images/turing_2.svg)
+![turing_2.jpg](./images/turing_2.svg)
 **b)
-![turing_3.svg](./images/turing_3.svg)
+![turing_3.jpg](./images/turing_3.svg)
 
 3 - Para cada uno de estos lenguajes construya una maquina de turing que los reconozca
 a) $0^{n}1^{n}$
